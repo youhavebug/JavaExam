@@ -1,0 +1,5 @@
+<root>
+    <item name='org.junit.internal.requests.MemoizingRequest org.junit.runner.Runner createRunner()'>
+        <annotation name='java.lang.Deprecated'/>
+    </item>
+</root>

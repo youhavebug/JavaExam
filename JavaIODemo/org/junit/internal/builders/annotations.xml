@@ -1,0 +1,5 @@
+<root>
+    <item name='org.junit.internal.builders.JUnit4Builder org.junit.runner.Runner runnerForClass(java.lang.Class&lt;?&gt;)'>
+        <annotation name='java.lang.Deprecated'/>
+    </item>
+</root>
